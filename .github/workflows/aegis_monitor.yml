@@ -1,22 +1,14 @@
-name: Monitor de Vigilancia AEGIS
+name: Monitor AEGIS
 on: [push]
-
 jobs:
-  telegram_notify:
+  notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Enviar Alerta a Scarlet
+      - name: Enviar Alerta
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          format: markdown
           message: |
-            🛡️ **PROTOCOLO AEGIS: ACTIVADO**
-            
-            Hola Scarlet, se ha detectado una actualización en tu infraestructura de GitHub.
-            
-            📍 **Evento:** Actualización de Código
-            ✅ **Estado:** Sistema Verificado y Seguro.
-            
-            "La mejor reparación es la que no tiene que repetirse."
+            🛡️ PROTOCOLO AEGIS: ACTIVADO
+            Hola Scarlet, sistema actualizado con éxito en Caracas.
