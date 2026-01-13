@@ -1,8 +1,18 @@
+<h1 align="center">
+  <span style="color:#00f2ff">SCARLET</span> <span style="color:#ff00ff">FUENMAYOR</span>
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00f2ff&backgroundColor=010508&height=120&section=header&text=SCARLET%20FUENMAYOR&fontSize=50&fontAlignY=40&fontColor=ff00ff" />
+  <b>⚡ SR. TECH DEVELOPER │ CYBER-SECURITY MASTER │ CARACAS HUB ⚡</b>
 </p>
 
-## <p align="center">⚡ SR. TECH DEVELOPER │ CYBER-SECURITY MASTER │ CARACAS HUB ⚡</p>
+<p align="center">
+  <sub>🔊 SISTEMA DE AUDIO ACTIVO: Army of Me</sub><br>
+  <audio controls autoplay loop style="height: 30px; filter: invert(100%);">
+    <source src="musica.mp3" type="audio/mpeg">
+    Tu navegador no soporta el audio del sistema.
+  </audio>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SISTEMA-OPERATIVO-00f2ff?style=for-the-badge&logo=target&logoColor=black" />
@@ -29,7 +39,7 @@
 > **ENCRYPTION:** `ACTIVE`
 
 **Seguridad de Red** ![90%](https://geps.dev/progress/90?dangerColor=ff00ff&profile=tokyonight)  
-**Hardware Armor** ![75%](https://geps.dev/progress/75?dangerColor=00f2ff&profile=tokyonight)  
+**Hardware Armor** ![79%](https://geps.dev/progress/79?dangerColor=00f2ff&profile=tokyonight)  
 **Vigilante Bot** ![98%](https://geps.dev/progress/98?dangerColor=7f00ff&profile=tokyonight)
 
 ---
@@ -43,9 +53,14 @@
 
 ---
 
+### ⚠️ ADVERTENCIA DE SEGURIDAD
+> **ACCESO RESTRINGIDO:** Cualquier intento de duplicación de este código o arquitectura sin autorización activará contramedidas legales. Todo el contenido está bajo el monitoreo del Protocolo AEGIS.
+
+---
+
 ### ⚖️ LICENCIA Y PROTECCIÓN LEGAL
-Este ecosistema digital está protegido bajo la **Licencia MIT**.
-**Copyright (c) 2026 Scarlet Fuenmayor Díaz.** Todos los derechos reservados.
+Este ecosistema digital está protegido bajo la **Licencia MIT**.  
+**Copyright (c) 2026 Scarlet Fuenmayor Díaz.**
 
 ---
 
