@@ -31,3 +31,16 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fuenmayorscarlet610-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuenmayorscarlet610-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 📞 CONEXIÓN DIRECTA
+<p align="center">
+  <a href="https://wa.me/584262271349?text=Hola%20Scarlet,%20solicito%20activar%20el%20Protocolo%20AEGIS."><b>[ WHATSAPP ]</b></a> │ 
+  <a href="https://t.me/AegisSystem_Bot"><b>[ TELEGRAM ]</b></a> │ 
+  <a href="mailto:fuenmayorscarlet610@gmail.com"><b>[ EMAIL ]</b></a>
+</p>
+
+<p align="center">
+  <sub>© 2026 Scarlet Fuenmayor | AEGIS PROTOCOL | Caracas, Venezuela</sub>
+</p>
