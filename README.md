@@ -1,60 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=010508&height=120&section=header&text=SCARLET%20FUENMAYOR&fontSize=50&animation=fadeIn&fontColor=00f2ff" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00f2ff&backgroundColor=010508&height=120&section=header&text=SCARLET%20FUENMAYOR&fontSize=50&fontAlignY=40&fontColor=ff00ff" />
 </p>
 
-## <p align="center">💻 SR. TECH DEVELOPER | PROTOCOLO AEGIS 🛡️</p>
+## <p align="center">⚡ SR. TECH DEVELOPER │ CYBER-SECURITY MASTER │ CARACAS HUB ⚡</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SISTEMA-OPERATIVO-00f2ff?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/NIVEL-MASTER_CERTIFIED-ff00ff?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ HARDWARE ARMOR (REGISTROS TÉCNICOS)
+### 🛠️ HARDWARE ARMOR (REGISTROS TÉCNICOS HEXAGONALES)
 <p align="center">
-  <img src="foto1.jpg" width="30%" />
-  <img src="foto2.jpg" width="30%" />
-  <img src="foto3.jpg" width="30%" />
+  <img src="foto1.jpg" width="31%" /> <img src="foto2.jpg" width="31%" /> <img src="foto3.jpg" width="31%" />
 </p>
 <p align="center">
-  <img src="foto4.jpg" width="30%" />
-  <img src="foto5.jpg" width="30%" />
-  <img src="foto6.jpg" width="30%" />
+  <img src="foto4.jpg" width="31%" /> <img src="foto5.jpg" width="31%" /> <img src="foto6.jpg" width="31%" />
   <br>
-  <sub><b>SISTEMA DE REGISTRO HEXAGONAL © SCARLET FUENMAYOR</b></sub>
+  <sub><b>REGISTROS DE CAMPO CIFRADOS © SCARLET FUENMAYOR</b></sub>
 </p>
 
 ---
 
-### 📊 NÚCLEO DE CAPACIDADES (MASTER LEVEL)
-<p align="center">
-  <img src="https://img.shields.io/badge/SEGURIDAD-PROTOCOLO_AEGIS-00f2ff?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/HARDWARE-ARMOR_EXPERT-ff00ff?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/SISTEMA-LINUX_OPERATIVE-7f00ff?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+### 📡 PANEL DE CONTROL (SYSTEM STATUS)
+> **USER:** `SCARLET_FUENMAYOR`  
+> **PROTOCOL:** `AEGIS_v2.0`  
+> **ENCRYPTION:** `ACTIVE`
 
-### 🛰️ MONITOR DE PROYECTOS ACTIVOS
-**Blindaje de Datos (AEGIS)** ![85%](https://geps.dev/progress/85?dangerColor=ff00ff&profile=tokyonight)
-
-**Optimización de Hardware** ![60%](https://geps.dev/progress/60?dangerColor=00f2ff&profile=tokyonight)
-
-**Despliegue de Bot de Vigilancia** ![95%](https://geps.dev/progress/95?dangerColor=7f00ff&profile=tokyonight)
+**Seguridad de Red** ![90%](https://geps.dev/progress/90?dangerColor=ff00ff&profile=tokyonight)  
+**Hardware Armor** ![75%](https://geps.dev/progress/75?dangerColor=00f2ff&profile=tokyonight)  
+**Vigilante Bot** ![98%](https://geps.dev/progress/98?dangerColor=7f00ff&profile=tokyonight)
 
 ---
 
-### 🛡️ MÉTRICAS DE OPERACIÓN (CARACAS HUB)
+### 🛡️ MÉTRICAS DE OPERACIÓN (CYBER-CORE)
 <p align="center">
-  <img src="https://img.shields.io/badge/AMENAZAS_NEUTRALIZADAS-1.2k-red?style=flat-square&logo=gitguardian&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/UPTIME_DEL_SISTEMA-99.9%25-brightgreen?style=flat-square&logo=uptime-robot&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/INTEGRIDAD_DE_DATOS-VERIFIED-blue?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMENAZAS_BLOQUEADAS-1.2k-ff00ff?style=flat-square&logo=fortinet&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-00f2ff?style=flat-square&logo=uptime-robot&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/UBICACIÓN-VENEZUELA-7f00ff?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### ⚖️ LICENCIA Y PROPIEDAD INTELECTUAL
-Este perfil y el software desarrollado bajo el **Protocolo AEGIS** están protegidos por la **Licencia MIT**.
-**Copyright (c) 2026 Scarlet Fuenmayor Díaz.**
+### ⚖️ LICENCIA Y PROTECCIÓN LEGAL
+Este ecosistema digital está protegido bajo la **Licencia MIT**.
+**Copyright (c) 2026 Scarlet Fuenmayor Díaz.** Todos los derechos reservados.
 
 ---
 
-### 📞 CONEXIÓN DIRECTA
+### 📞 TERMINAL DE CONTACTO
 <p align="center">
-  <a href="https://wa.me/584262271349"><b>[ WHATSAPP ]</b></a> │ 
-  <a href="mailto:fuenmayorscarlet610@gmail.com"><b>[ EMAIL ]</b></a>
+  <a href="https://wa.me/584262271349"><b>[ ACCESS_WHATSAPP ]</b></a> │ 
+  <a href="mailto:fuenmayorscarlet610@gmail.com"><b>[ SEND_ENCRYPTED_EMAIL ]</b></a>
 </p>
