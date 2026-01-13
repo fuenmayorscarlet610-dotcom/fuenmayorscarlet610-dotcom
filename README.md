@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <sub>🔊 SISTEMA DE AUDIO ACTIVO: Army of Me</sub><br>
-  <audio controls autoplay loop style="height: 30px; filter: invert(100%);">
-    <source src="musica.mp3" type="audio/mpeg">
-    Tu navegador no soporta el audio del sistema.
-  </audio>
+  <a href="musica.mp3">
+    <img src="https://img.shields.io/badge/📡_SISTEMA_DE_AUDIO-ARMY_OF_ME-00f2ff?style=for-the-badge&logo=soundcharts&logoColor=black" />
+  </a>
+  <br>
+  <sub><b>PULSE ACTIVE: CLICK PARA SINCRONIZAR AUDIO</b></sub>
 </p>
 
 <p align="center">
@@ -54,13 +54,13 @@
 ---
 
 ### ⚠️ ADVERTENCIA DE SEGURIDAD
-> **ACCESO RESTRINGIDO:** Cualquier intento de duplicación de este código o arquitectura sin autorización activará contramedidas legales. Todo el contenido está bajo el monitoreo del Protocolo AEGIS.
+> **ACCESO RESTRINGIDO:** Cualquier intento de duplicación de este código o arquitectura sin autorización activará contramedidas legales bajo el monitoreo del Protocolo AEGIS.
 
 ---
 
 ### ⚖️ LICENCIA Y PROTECCIÓN LEGAL
 Este ecosistema digital está protegido bajo la **Licencia MIT**.  
-**Copyright (c) 2026 Scarlet Fuenmayor Díaz.**
+**Copyright (c) 2026 Scarlet Fuenmayor Díaz.** Todos los derechos reservados.
 
 ---
 
