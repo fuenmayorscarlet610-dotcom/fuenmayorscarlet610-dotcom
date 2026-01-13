@@ -1,2 +1,13 @@
-📊 AEGIS SYSTEM STATUS (NÚCLEO)
-<p align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfuenmayorscarlet610-dotcom%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26title_color%3D00f2ff%26icon_color%3Dff00ff" /> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfuenmayorscarlet610-dotcom%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00f2ff" /> </p>
+---
+
+## 🛡️ HARDWARE ARMOR (Mantenimiento & Soporte)
+<p align="left">
+  <img src="https://img.shields.io/badge/HARDWARE-DIAGNOSTICS-00f2ff?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMOR-MAINTENANCE-ff00ff?style=for-the-badge&logo=buildkite&logoColor=white" />
+</p>
+
+* **⚡ Soporte Crítico:** Reparación y mantenimiento preventivo de estaciones de trabajo.
+* **📡 Redes & Enlace:** Configuración de infraestructura y seguridad de red local.
+* **💻 Optimización de Núcleo:** Limpieza física y actualización de componentes para rendimiento máximo.
+
+---
