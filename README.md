@@ -13,7 +13,7 @@
 ---
 
 ### 📡 NÚCLEO OPERATIVO
-> **"Transformando la complejidad técnica en soluciones fluidas."**
+> "Transformando la complejidad técnica en soluciones fluidas bajo el blindaje del Protocolo AEGIS."
 
 * **🛰️ System Security:** Blindaje y recuperación de entornos críticos.
 * **🛠️ Hardware Armor:** Diagnóstico avanzado y mantenimiento de élite.
@@ -21,7 +21,19 @@
 
 ---
 
-### 📊 ACTIVIDAD DEL SISTEMA
+### 🛡️ HARDWARE ARMOR (REGISTROS TÉCNICOS)
+<p align="center">
+  <img src="foto1.jpg" width="45%" alt="Registro 1" />
+  <img src="foto2.jpg" width="45%" alt="Registro 2" />
+</p>
+<p align="center">
+  <img src="foto3.jpg" width="45%" alt="Registro 3" />
+  <img src="foto4.jpg" width="45%" alt="Registro 4" />
+</p>
+
+---
+
+### 📊 ESTADO DEL SISTEMA
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fuenmayorscarlet610-dotcom&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuenmayorscarlet610-dotcom&layout=compact&theme=tokyonight&hide_border=true" />
@@ -31,11 +43,11 @@
 
 ### 📞 CONEXIÓN DIRECTA
 <p align="center">
-  <a href="https://wa.me/584262271349"><b>[ WHATSAPP ]</b></a> │ 
+  <a href="https://wa.me/584262271349?text=Hola%20Scarlet,%20solicito%20activar%20el%20Protocolo%20AEGIS."><b>[ WHATSAPP ]</b></a> │ 
   <a href="https://t.me/AegisSystem_Bot"><b>[ TELEGRAM ]</b></a> │ 
   <a href="mailto:fuenmayorscarlet610@gmail.com"><b>[ EMAIL ]</b></a>
 </p>
 
 <p align="center">
-  <sub>© 2026 SCARLET FUENMAYOR | AEGIS PROTOCOL</sub>
+  <sub>© 2026 Scarlet Fuenmayor | AEGIS PROTOCOL | Caracas, Venezuela</sub>
 </p>
