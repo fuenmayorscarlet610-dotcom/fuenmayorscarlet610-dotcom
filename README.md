@@ -1,19 +1,2 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=010508&height=150&section=header&text=PROTOCOLO%20AEGIS&fontSize=70&animation=fadeIn&fontColor=00f2ff" />
-</p>
-
-# <p align="center">🛡️ SCARLET FUENMAYOR | SR. TECH DEVELOPER 🛡️</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00f2ff?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-ff00ff?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-CARACAS_VZLA-7f00ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">⚡ <b>Transformando la frustración técnica en soluciones fluidas bajo el blindaje AEGIS</b> ⚡</p>
-
----
-
-## 🛰️ MISIÓN OPERATIVA
-Especialista en soluciones técnicas bajo el **Protocolo AEGIS**. Mi enfoque combina veracidad, eficiencia y un compromiso humano para garantizar la máxima calidad en Caracas, Venezuela.
-```javascriptconst AEGIS_CORE = {operador: "Scarlet Fuenmayor Díaz", especialidad: "System Security & Support", sistemas: ["Windows", "Linux", "Cybersecurity"], copyright: "© Scarlet Fuenmayor"};
+📊 AEGIS SYSTEM STATUS (NÚCLEO)
+<p align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfuenmayorscarlet610-dotcom%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26title_color%3D00f2ff%26icon_color%3Dff00ff" /> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfuenmayorscarlet610-dotcom%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D00f2ff" /> </p>
