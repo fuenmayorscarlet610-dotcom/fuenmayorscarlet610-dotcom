@@ -16,4 +16,4 @@
 
 ## 🛰️ MISIÓN OPERATIVA
 Especialista en soluciones técnicas bajo el **Protocolo AEGIS**. Mi enfoque combina veracidad, eficiencia y un compromiso humano para garantizar la máxima calidad en Caracas, Venezuela.
-```javascriptconst AEGIS_CORE = {operador: "Scarlet Fuenmayor Díaz", especialidad: "System Security & Support", sistemas: ["Windows", "Linux", "Cybersecurity"], copyright: "© Scarlet Fuenmayor"};🛠️ CAPACIDADES DE INTERVENCIÓN📡 Radar (Detección): Escaneo profundo de vulnerabilidades en infraestructura.🔧 Intervención (Solución): Optimización y recuperación de entornos críticos en tiempo real.🛡️ Blindaje (Prevención): Fortalecimiento de seguridad y planes de respaldo preventivos.
+```javascriptconst AEGIS_CORE = {operador: "Scarlet Fuenmayor Díaz", especialidad: "System Security & Support", sistemas: ["Windows", "Linux", "Cybersecurity"], copyright: "© Scarlet Fuenmayor"};
